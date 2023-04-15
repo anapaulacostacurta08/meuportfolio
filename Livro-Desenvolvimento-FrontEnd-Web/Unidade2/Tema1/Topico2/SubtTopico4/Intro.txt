@@ -1,1 +1,20 @@
-SERVER API's 
+Versão 1 - Abril 2023 - SERVER API's 
+
+
+GIO IMPORTANTE:
+
+Do lado do servidor utilizamos a sintaxe:
+
+renderToString(reactNode)
+
+* reactNode um nó React que será renderizado como string HTML;
+* por exemplo o nó <App /> que é criado pelo comando create-react-app. 
+
+Do lado do cliente utilizamos a sintaxe:
+
+hydrateRoot(domNode, reactNode)
+
+* O React anexará o HTML recebido dentro de um elemento domNode
+* O reactNode é “nó” usado para renderizar o HTML existente.
+
+
