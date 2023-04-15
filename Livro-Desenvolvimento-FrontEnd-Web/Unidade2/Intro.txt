@@ -1,0 +1,6 @@
+Versão 1 - Abril 2023 - JAVASCRIPT MODERNO
+
+Neste espaço pode ser encontrado exemplos de código sobre:
+1 PROGRAMAÇÃO BÁSICA COM JAVASCRIPT ES6+
+2 APIs REACT.JS MODERNAS
+3 MICRO FRONTEND
